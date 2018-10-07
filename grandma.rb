@@ -2,7 +2,7 @@
 def speak_to_grandma(str)
   if (str == "I LOVE YOU GRANDMA!")
     puts "I LOVE YOU TOO PUMKIN!"
-  else if (str.upcase == str)
+  elsif (str.upcase == str)
     puts "NO, NOT SINCE 1938!"
   else 
     puts "HUH?! SPEAK UPm SONNY!"
